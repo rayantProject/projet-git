@@ -3,4 +3,4 @@ bin/
 #to ignore build folder
 build/
 #to ignore all class files
-*.class
+/*.class
